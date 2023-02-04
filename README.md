@@ -5,7 +5,7 @@
 - Branch name == Challenge Day i.e Branch Day1 = Day one Challenge
 
 ## Setup Instruction
-- [SQL Setup File (from Day1)](https://drive.google.com/file/d/1DT_jWBZK2msHuh92D77ZFqZ8wkvxSt7V/view?usp=sharing)
+- [SQL Setup File (from Day1)](https://drive.google.com/drive/folders/1GYCOpqA9JnscBvby71cDVj5GZhNnyboV?usp=sharing)
 
 
 ## Challenge
